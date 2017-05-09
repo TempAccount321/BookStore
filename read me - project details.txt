@@ -1,0 +1,29 @@
+Online Book Store:
+
+-	This project have the database of books.
+-	You can search the book by book  id, book name, Author Name.
+-	You can add as many books as you want
+
+Database:
+Right now, I am using local mysql database with Xampp set up. Booksinfo.Sql file is also in the folder. 
+I tried to used db4free but the connection is too slow that it cannot load the data. So I use local database. 
+
+
+How to Run:
+You just need to: 
+-	import the java project in Eclipse. 
+-	Run xampp set up
+-	In browser open localhost/phpmyadmin, create database name cdcol (this databse by default available in phpmyadmin) and import the sql file in it to create the table with data I have used.
+-	Run the project from Eclipse and here we go. Screen will appear to input the data in it.
+-	It has Add books, Search books by id, book name or author name and delete book features.
+Additional:
+-	I have used Java Swing APIs for UI.
+-	I have used LinkedList data structure for data manipulation. Please give me extra marks for it. 
+-	I load the all data from database to linked list to improve the performance and user experience at run time search.
+
+
+
+Future Plans:  
+I am working hard on this project to further extend it to JSF for online book store and will live the project with more feature like Login, Sign Up, User History, User place order for book, Book Delivery status. Payment will be on delivery time.
+
+Please guide me to make this project a successful product.

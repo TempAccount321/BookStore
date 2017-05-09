@@ -1,0 +1,34 @@
+Description
+
+•	Search books based on category , book title and price range 
+It allow user to search their desire book either by category , book title or by the book price to provide the ease to use different option according to the preference
+•	Add books to shopping cart. 
+It will provide user the facility to add book in the shopping cart so it can be save and remain visible to the user what he/she has selected
+•	Update quantity in shopping cart 
+It also provide facility to enter the quantity of the book. Like user do not have to add a book more than one if it wants more than one copy, It just need to add the book and enter the number of copies of the book he/she want to buy and this is just super cool thing for a user
+•	Remove books from shopping cart 
+So if a user enter a book by mistaken in the shopping cart, the system provide the facility to undo the selection by deleting a book from the shopping card before placing the order
+
+Future Plans:
+•	Finalize order for books in shopping cart 
+After you selected the book and added it to the shopping card and you are sure that what you have selected . you just need to go ahead and place the order. After that book delvery process will start.
+•	See the status of orders placed in the past - orders history. 
+The system also provide the facility for the registered user to see what is the history of his/her purchases. 
+This is the overall functionalities of the system till now. I an developing the system in a flexiable way so we can further add the features in the application and can also improve the user experience of the application
+
+
+Objectives and Scope
+
+The application that I am developing is a online book store which is basically facilitate the use to open the online book store portal and select any book he/she want to purchase and the select book will be delivered to their home. Payment is on the time of successful delivert of book which is pay on delivery model of payment. 
+
+The purpose of the system is to provide the facility for the user to select a book while lying on the bed, eating and being any where doing his job. This is the best thing that a user can have instead of wasting time to go to a book shop and go to a partiuclar section of book and then find a book. This is a really hectic process of buying a book. Keeping this in mind, I am developing a online book store which proide user a facility to stay at home or any where in the world, just open the online portal and go through the number of book the system database have and then select the book and place order. The best thing is that book will be delivered to your door step and as you receive the book, you will pay the price of the book, Its assimple as it is.
+
+Motivations
+
+
+With the rapid increase of usage of technology in every field in the world, people love to purchase and place orders online without any effort. Online purchasing actually increase the user ease to choose and buy a product. This is the main purpose of this project to introduce the technology in this book selection and purchase system.
+
+Organizational Structure
+
+Future plans is to promote this online book store portal to many book store to add their collect of book in our data base to increase the collection for user. So the business model is like, there can be many store registered in our system and user can see different book from different stores. This will improve the user experience as user will have large varity/category of collection from different store with their asking prices to choose and can easily buy the book without any effort. This is a web application built in java.
+
